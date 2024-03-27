@@ -30,6 +30,7 @@ To run the website locally, you'll need:
    cd fatinmojumder.github.io
 
 How to Contribute
+
 I welcome contributions to my portfolio! Whether it's adding new projects, improving documentation, or fixing issues, your help is appreciated.
 
 Fork the repository.
