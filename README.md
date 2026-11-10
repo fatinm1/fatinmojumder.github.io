@@ -1,3 +1,5 @@
+> **Legacy portfolio.** The current portfolio is [fatin.dev](https://fatin.dev). This repository is retained as learning history.
+
 # Fatin Mojumder's Portfolio
 
 Welcome to the source repository for [Fatin Mojumder's personal portfolio](https://fatinm1.github.io/fatinmojumder.github.io/)! This website showcases my projects, experiences, and blog posts about technology, programming, and more.
